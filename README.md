@@ -1,1 +1,1 @@
-# git
+This project is a personal portfolio website developed using HTML, CSS, and JavaScript. It contains About Me, Skills, Projects, and Contact sections. HTML is used to create the structure, CSS is used to design the website and make it responsive, and JavaScript is used to add interactivity to the contact form. Semantic HTML tags and accessibility features are included to make the website user-friendly. The website can be published using GitHub Pages.
